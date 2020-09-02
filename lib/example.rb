@@ -1,4 +1,4 @@
 # Use this space to code along with the readme
 
-10.time do "Hello World!"
+10.times do "Hello World!"
 end
