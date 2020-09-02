@@ -4,4 +4,4 @@ word = ["hello world"]
 def word(say)
   say.each do |world| 
   end 
-  
+end
