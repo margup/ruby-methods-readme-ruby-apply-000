@@ -1,5 +1,7 @@
 # Use this space to code along with the readme
 
-10.times do 
-  puts "Hello World!"
-end
+word = ["hello world"]
+def word(say)
+  say.each do |world| 
+  end 
+  
